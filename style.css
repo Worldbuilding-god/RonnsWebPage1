@@ -1,8 +1,8 @@
 p{
-    word-spacing:0.01em; padding:8px; font-color:#FF3366; font-family:"Arial";font-size:1.5em
+    word-spacing:0.01em; padding:8px; font-color:#235789; font-family:"Arial";font-size:1.5em
 }
 #links{
-    font-color:#FF3366; font-size:1.5em; padding:8px
+    font-color:#235789; font-size:1.5em; padding:8px
 }
 table{
     Padding:0.1rem
@@ -11,5 +11,5 @@ caption{
     padding:1rem;
 }
 body{
-    background-color:blue;color:#FF3366
+    background-color:#FDFFFC;color:#235789
 }
