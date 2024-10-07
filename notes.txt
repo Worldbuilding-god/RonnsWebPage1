@@ -8,3 +8,10 @@ Mount Aurius is the lone volcano on the crescent shaped island
 Balbayerem{
 
 }
+Colors{
+    0000FF=blue
+    FF3366=Folly
+    A9F0D1=Aquamarine
+    002E2C=Dark green
+    F0A202=Gamboge
+}
