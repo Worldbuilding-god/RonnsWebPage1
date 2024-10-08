@@ -15,3 +15,16 @@ Colors{
     002E2C=Dark green
     F0A202=Gamboge
 }
+Hab group{
+    Humans are best group
+    Bad guys
+}
+Rep. Arrown Krownes{
+    Good guy
+    Honest
+    Nice
+} 
+Briar inc.{
+    Middle side
+    Only loyal to money/power
+}
