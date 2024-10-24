@@ -28,3 +28,9 @@ Briar inc.{
     Middle side
     Only loyal to money/power
 }
+Forager entertainment{
+    Chill
+}
+Life{
+    Suburan explosion=Junoan Cambrian explosion
+    Subura=a busy quarter in rome

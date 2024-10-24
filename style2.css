@@ -11,7 +11,10 @@ caption{
     padding:1rem;
 }
 body{
-    background-color:#FDFFFC;color:#235789
+    background-color:#7AB2FF22;color:#4f0f4f
+}
+li{
+    font-size:1.2rem
 }
 strong{
     color:DarkOrange;
